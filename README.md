@@ -37,7 +37,7 @@ PulseGuard/
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/your-username/PulseGuard.git
+git clone https://github.com/Varsha2635/PulseGuard.git
 cd PulseGuard
 ```
 ### 2.Start Flask ML Backend
