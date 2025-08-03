@@ -42,9 +42,6 @@ cd PulseGuard
 ```
 ### 2.Start Flask ML Backend
 ```bash
-bash
-Copy
-Edit
 cd server-flask
 pip install -r requirements.txt
 python app.py
