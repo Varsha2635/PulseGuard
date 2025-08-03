@@ -828,6 +828,11 @@ const doctorInfoByState = {
                 </div>
               </div>
 
+              {/* did you know card */}
+              <div style={{ marginTop: "20px" }}>
+                <DidYouKnow />
+              </div>
+
 
               
             </div>
@@ -1546,4 +1551,5 @@ const doctorInfoByState = {
     </div>
   );
 }
+
 
