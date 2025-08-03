@@ -87,7 +87,4 @@ npm run dev
 ### 1. Varsha Kundarapu
 ### 2. Tasila PoornaShree
 ### 3. Anushka Tiwari 
----
 
-## 📄 License
-### MIT License – feel free to use, modify, and contribute!
