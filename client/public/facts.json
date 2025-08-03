@@ -1,0 +1,44 @@
+{
+  "facts": [
+    {
+      "fact": "High-fiber diets lower bad cholesterol naturally.",
+      "tip": "Include oats, beans, and fruits daily to improve heart health."
+    },
+    {
+      "fact": "Regular exercise reduces heart disease risk by 30%.",
+      "tip": "Aim for at least 30 minutes of walking, 5 days a week."
+    },
+    {
+      "fact": "Smoking doubles your risk of heart attack.",
+      "tip": "Quit smoking and avoid secondhand smoke to protect your heart."
+    },
+    {
+      "fact": "Excessive stress increases blood pressure and heart strain.",
+      "tip": "Practice meditation, yoga, or deep breathing to keep stress levels low."
+    },
+    {
+      "fact": "Too much salt can lead to high blood pressure.",
+      "tip": "Limit processed foods and use herbs/spices instead of salt in cooking."
+    },
+    {
+      "fact": "Getting less than 6 hours of sleep regularly raises heart risk.",
+      "tip": "Maintain a sleep routine and aim for 7–8 hours of quality rest."
+    },
+    {
+      "fact": "Obesity is a major risk factor for heart disease.",
+      "tip": "Maintain a healthy weight with balanced nutrition and regular activity."
+    },
+    {
+      "fact": "Excess sugar intake can increase the risk of heart problems.",
+      "tip": "Cut down on sugary drinks and snacks; opt for natural sweeteners in moderation."
+    },
+    {
+      "fact": "Omega-3 fatty acids improve heart health and reduce inflammation.",
+      "tip": "Include fatty fish like salmon, flaxseeds, and walnuts in your diet."
+    },
+    {
+      "fact": "Hydration supports proper blood flow and heart function.",
+      "tip": "Drink at least 7–8 glasses of water daily and avoid excessive caffeine."
+    }
+  ]
+}

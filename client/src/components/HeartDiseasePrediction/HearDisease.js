@@ -421,6 +421,7 @@
 
 
 import React, { useState,useEffect } from "react";
+import DidYouKnow from "../DidYouKnow";
 import {
   Heart,
   Activity,
@@ -826,6 +827,11 @@ const doctorInfoByState = {
                     <span className="font-bold">✓</span>
                   </div>
                 </div>
+              </div>
+
+              {/* did you know card */}
+              <div style={{ marginTop: "20px" }}>
+                <DidYouKnow />
               </div>
 
 
@@ -1546,4 +1552,6 @@ const doctorInfoByState = {
     </div>
   );
 }
+
+
 
