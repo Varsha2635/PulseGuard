@@ -40,13 +40,13 @@ PulseGuard/
 git clone https://github.com/Varsha2635/PulseGuard.git
 cd PulseGuard
 ```
-### 2.Start Flask ML Backend
+### 2. Start Flask ML Backend
 ```bash
 cd server-flask
 pip install -r requirements.txt
 python app.py
 ```
-### 3.Start Node.js Auth Backend
+### 3. Start Node.js Auth Backend
 ```bash
 cd server
 npm install
