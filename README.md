@@ -5,7 +5,7 @@ Pulse Guard is a full-stack health-tech web application that predicts your risk 
 ---
 ## 🚀 Live Demo
 
- **Frontend (React):** [https://papaya-stardust-91ef3b.netlify.app](https://papaya-stardust-91ef3b.netlify.app/login)
+ **Demo Link:** [https://papaya-stardust-91ef3b.netlify.app](https://papaya-stardust-91ef3b.netlify.app/login)
 
 ---
 # 🧩 Project Structure
