@@ -3,11 +3,6 @@
 Pulse Guard is a full-stack health-tech web application that predicts your risk of heart disease using machine learning. Based on your risk level, it provides personalized health advice, shows nearby cardiologists, and allows secure login with email OTP.
 
 ---
-## 🚀 Live Demo
-
- **Demo Link:** [https://papaya-stardust-91ef3b.netlify.app](https://papaya-stardust-91ef3b.netlify.app/login)
-
----
 # 🧩 Project Structure
 
 PulseGuard/
