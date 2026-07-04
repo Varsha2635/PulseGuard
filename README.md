@@ -50,7 +50,7 @@ npm start
 ```
 ### 4. Start Frontend(React)
 ```bash
-cd frontend
+cd client
 npm install
 npm run dev
 ```
